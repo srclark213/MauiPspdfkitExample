@@ -62,7 +62,7 @@ function setEraser() {
             ...presets,
             ink: {
                 ...presets.line,
-                inkEraserWidth: 2
+                inkEraserWidth: 40
             }
         };
     });
